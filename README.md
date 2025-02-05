@@ -13,3 +13,6 @@ Version 1.2
 
 
 NOTE: Sometimes the mods will become corrupted especially if the game was updated, the proton version was changed, or a file verification was run. Just go into the prefix c drive and delete all the mods and any shortcuts and then re-download them. You can then run the script again.
+
+DayZ APP ID: 221100
+ARMA 3 APP ID: 107410
